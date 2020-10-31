@@ -1,0 +1,8 @@
+name: NewXBedwars
+version: ${project.version}
+main: cc.i9mc.newxbedwars.NewXBedwars
+authors: [JinVan]
+depend: [NametagEdit, Vault, Nick, DanSync, GlobalPrefix, PluginChannel, Rejoin, GameUtils, WatchNMSLReport, K8SGameACK]
+commands:
+  start:
+  game:
