@@ -1,4 +1,1 @@
-# NewXBedwars
-游戏世界新起床，开源。自行补代码
-
-->>>看master
+## 此项目关闭 新代码请看 https://github.com/qsxzaqq/NewBedWars
